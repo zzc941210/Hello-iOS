@@ -6,4 +6,4 @@
 + It builds correctly
 + It runs inside the emulator
 + It runs on an iPhone5
-+ Screen include
++ Screenshot include
